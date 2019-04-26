@@ -1,0 +1,11 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+BEGIN:VEVENT
+CLASS:PUBLIC
+DESCRIPTION:AWS Summit Singapore 2019 Live Stream\nDate and Time - Apr 11\, 2019 9:15 AM to 10:45 AM\nVenue - https://live.awsevents.com/singapore/\nWatch AWS Summit Singapore 2019 keynote live stream: https://live.awsevents.com/singapore/\n\nDate: Thursday\, April 11\, 2019 \n• 9:15am (Singapore\, Malaysia and Philippines)\n• 8:15am (Thailand\, Indonesia and Vietnam)\n• 6:15am (Pakistan)\n
+DTSTART:20190411T011500Z
+DTEND:20190411T024500Z
+LOCATION:https://live.awsevents.com/singapore/
+SUMMARY;LANGUAGE=en-us:AWS Summit Singapore 2019 Live Stream
+END:VEVENT
+END:VCALENDAR
