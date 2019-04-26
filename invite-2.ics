@@ -1,0 +1,26 @@
+BEGIN:VCALENDAR
+PRODID:-//Microsoft Corporation//Outlook MIMEDIR//EN
+VERSION:2.0
+METHOD:REQUEST
+BEGIN:VEVENT
+UID:jifflenow_bmV0YXBwK2dvb2dsZW5leHQyMDE5KzY0K1VzZXIrT3hHZXEzVlFSQ0FRRXg0RllzcmtkQQ
+ORGANIZER;CN=Anita Seth:mailto:response@calendar-response.jifflenow.com
+DTSTART:20190411T203000Z
+DTEND:20190411T211500Z
+DTSTAMP:20190409T201612Z
+ATTENDEE;CN='Ye Man Aung';ROLE=REQ-PARTICIPANT;RSVP=TRUE:mailto:koyemanaung@gmail.com
+SUMMARY:Updated: NetApp at Google Next 2019
+LOCATION:Updated: Room SM 41 - NetApp Meeting Room, Google Next Expo -Follow signs to Breakout Room 4. Go behind the stage to Sponsor Meeting Rooms Area. Moscone South Convention Center, San Franscisco CA
+DESCRIPTION:Hi Ye Man,\n\nMeeting Location has been updated. Find the updated details below:\n \nMeeting With  NetApp\nWhen  Thu, Apr 11, 2019   01:30 pm   to   02:15 pm    Pacific Time (US & Canada)\nWho  NetApp Attendees:\n Bryan Wagoner, bwagoner@netapp.com, Solutions Engineer\n Joe Dondero, jdondero@netapp.com, Account Manager\n\nExternal Attendees:\n Ye Man Aung, koyemanaung@gmail.com, Managing Director\n\nWhere  Room SM 41 - NetApp Meeting Room, Google Next Expo -Follow signs to Breakout Room 4. Go behind the stage to Sponsor Meeting Rooms Area. Moscone South Convention Center, San Franscisco CA\n\nNote: This automated email is intended for your use only. Please do not forward this message. If you require assistance, please contact the event team at ng-NetApp-VIP-Program-GoogleNext@netapp.com\n\n\nPlease contact compliance@jifflenow.com to opt out of Jifflenow for NetApp, or for any questions about data privacy and security.
+X-ALT-DESC;FMTTYPE=text/html: <DOCTYPE html><html><head><title>Request Recieved Mailer</title></head><body>Hi Ye Man,<br><br><strong> has been updated.</strong> Find the updated details below:<br> <table border="1" cellpadding="1" cellspacing="1" style="width:100%;"><tbody><tr><td style="width:20%;">Meeting With</td><td>NetApp</td></tr><tr><td style="width:20%;">When</td><td>Thu, Apr 11, 2019   01:30 pm   to   02:15 pm    Pacific Time (US &amp; Canada)</td></tr><tr><td style="width:20%;">Who</td><td>NetApp Attendees:<br>Bryan Wagoner, bwagoner@netapp.com, Solutions Engineer<br>Joe Dondero, jdondero@netapp.com, Account Manager<br><br>External Attendees:<br>Ye Man Aung, koyemanaung@gmail.com, Managing Director<br></td></tr><tr><td style="width:20%;">Where</td><td>Room SM 41 - NetApp Meeting Room, Google Next Expo -Follow signs to Breakout Room 4. Go behind the stage to Sponsor Meeting Rooms Area. Moscone South Convention Center, San Franscisco CA</td></tr></tbody></table><br>Note: This automated email is intended for your use only. Please do not forward this message. If you require assistance, please contact the event team at ng-NetApp-VIP-Program-GoogleNext@netapp.com<br><br><br>Please contact compliance@jifflenow.com to opt out of Jifflenow for NetApp, or for any questions about data privacy and security.</body></html>
+SEQUENCE:6
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT30M
+ACTION:DISPLAY
+DESCRIPTION:Updated: NetApp at Google Next 2019
+END:VALARM
+END:VEVENT
+END:VCALENDAR
+
